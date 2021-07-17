@@ -3913,11 +3913,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Back to the Future Part III",
+		    "zh-TW": "回到未來3"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:09:52.109",
                 "text": {
-                    "en": "en..."
+                    "en": "You've been a good, kind, and loyal friend to me... and you made a real difference in my life. I will always treasure our relationship and think of you with fond memories... warm feelings and a special place in my heart. Your friend in time, Doc Emmett L. Brown. September 1, 1885."
                 }
             }
         ]
@@ -3929,11 +3930,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Back to the Future Part III",
+		    "zh-TW": "回到未來3"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:17:19.429",
                 "text": {
-                    "en": "en..."
+                    "en": "I wrote the letter on September 1, so we'll send you to... September 2, that's a Wednesday. September 2, 1885, 8:00 a.m. I get shot on Monday the 7th. You have five days to locate me. According to my letter, I'm a blacksmith, so I probably have a shop somewhere."
                 }
             }
         ]
@@ -3961,11 +3963,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "The Public",
+		    "zh-TW": "公共圖書管理員"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "01:51:29.100",
                 "text": {
-                    "en": "en..."
+                    "en": "Excuse me, sir. Do you know these guys? Yeah, these fellas, they're my friends. Would you mind answering a few questions for our viewers? - Is this a live broadcast? - It is. The first live broadcast in the United States took place September 4, 1951"
                 }
             }
         ]
@@ -4009,11 +4012,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Legends of the Fall",
+		    "zh-TW": "真愛一世情"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "01:00:32.630",
                 "text": {
-                    "en": "en..."
+                    "en": "I'll be leaving today. Alfred, I wish you both all the best. - Good-bye, son. Wish me luck. Good luck. September 7, 1915."
                 }
             }
         ]
@@ -4073,11 +4077,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Official Secrets",
+		    "zh-TW": "瞞天機密"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:09:00.200",
                 "text": {
-                    "en": "en..."
+                    "en": "you see, my vision shifted dramatically after September 11. I realized the world has changed. My most important obligation is to protect the American people from further harm. And I will do that. Thank you all very much."
                 }
             }
         ]
@@ -4089,11 +4094,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "The Internet's Own Boy: The Story of Aaron Swartz",
+		    "zh-TW": "網際網路之子"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "01:24:29.069",
                 "text": {
-                    "en": "en..."
+                    "en": "On September 12, 2012, federal prosecutors filed a superseding indictment against Swartz, adding additional counts of wire fraud, unauthorized access to a computer, and computer fraud. Now, instead of four felony counts, Swartz was facing thirteen. The prosecution's leverage had dramatically increased,"
                 }
             }
         ]
