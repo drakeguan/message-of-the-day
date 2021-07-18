@@ -4895,11 +4895,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Watchmen",
+		    "zh-TW": "守護者"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "02:44:35.840",
                 "text": {
-                    "en": "en..."
+                    "en": "That's where we're going now: Antarctica. Whether I'm alive or dead upon this reading... I hope the world survives long enough for this journal to reach you. I live my life free of compromise... and step into the shadow without complaint or regret. Rorschach, November 1st."
                 }
             }
         ]
@@ -4911,11 +4912,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Mona Lisa Smile",
+		    "zh-TW": "蒙娜麗莎的微笑"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:18:57.741",
                 "text": {
-                    "en": "en..."
+                    "en": "Do you realize November 2 is three weeks from now? -Oh, honey. -Don't have it. -Don't come. -Here. Here."
                 }
             }
         ]
@@ -4927,11 +4929,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "84 Charing Cross Road",
+		    "zh-TW": "查令十字路84號"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:08:54.560",
                 "text": {
-                    "en": "en..."
+                    "en": "14 East 95th Street, New York City. November 3, 1949. Gentlemen: The books arrived safely. The Stevenson is so fine it embarrasses my orange-crate bookshelves. I'm afraid to handle such soft vellum and heavy cream-colored pages."
                 }
             }
         ]
@@ -4943,11 +4946,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Contact",
+		    "zh-TW": "接觸未來"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:09:46.360",
                 "text": {
-                    "en": "en..."
+                    "en": "Here it is. J-1741. Catalogued November 4, 1982. Pulsar. Must've been the glitch in the timing's what threw me. Must've been a starquake."
                 }
             }
         ]
@@ -4959,11 +4963,12 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": ""
+                    "en": "Top Gun",
+		    "zh-TW": "捍衛戰士"
                 },
-                "timecode": "00:00:00.000",
+                "timecode": "00:46:20.220",
                 "text": {
-                    "en": "en..."
+                    "en": "He disappeared in an F-4, November 5th, 1965. The stink of it was, he screwed up. No way. My old man was a great fighter pilot. But who the hell knows?It's all classified. Somebody must know. Yeah, somebody knows everything."
                 }
             }
         ]
