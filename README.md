@@ -65,8 +65,10 @@ Here is an example of messages.json:
             {
                 "type": "movie",
                 "title": {
-                    "en": "Cosmos: A SpaceTime Odyssey Episode 1"
+                    "en": "Cosmos: A SpaceTime Odyssey"
                 },
+		"season": 1,
+		"episode": 1,
                 "timecode": "00:28:21.930",
                 "text": {
                     "en": "January 1st, the Big Bang."
