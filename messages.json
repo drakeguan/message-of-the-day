@@ -3174,9 +3174,11 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "The Good Wife Season 1 Episode 7",
+                    "en": "The Good Wife",
 		    "zh-TW": "法庭女王 第一季 第7集"
                 },
+		"season": 1,
+		"episode": 7,
                 "timecode": "00:25:23.700",
                 "text": {
                     "en": "And you called at night on your cell, so your husband wouldn't find out about it. Is that right? Yes. I'm sorry. You did the same thing on August 7, and July 17, and June 19. Is this correct? Other Fridays?"
@@ -3191,9 +3193,11 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "Breaking Bad Season 3 Episode 1",
+                    "en": "Breaking Bad",
 		    "zh-TW": "絕命毒師 第三季 第1集"
                 },
+		"season": 3,
+		"episode": 1,
                 "timecode": "00:29:48.150",
                 "text": {
                     "en": "ever really hurt someone? I killed my daughter. It was July 18th, which is my birthday. July 18, 1992."
@@ -3256,8 +3260,10 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "Agents of S.H.I.E.L.D. Season 7 Episode 4"
+                    "en": "Agents of S.H.I.E.L.D."
                 },
+		"season": 7,
+		"episode": 4,
                 "timecode": "00:02:21.920",
                 "text": {
                     "en": "everything went haywire. The base was infiltrated, my test was sabotaged. And my contact -- the scientist -- he's dead. Niles Lindmore turned out to be a hostile. July 22, 1955."
@@ -3272,9 +3278,11 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "How I Met Your Mother Season 6 Episode 8",
+                    "en": "How I Met Your Mother",
 		    "zh-TW": "追愛總動員 第六季 第8集"
                 },
+		"season": 6,
+		"episode": 8,
                 "timecode": "00:18:48.300",
                 "text": {
                     "en": "The Marathon Man. Mr. Stamina himself. I can kiss better than that old man. So when was the last time you saw him? It was that day, July 23, 1981."
@@ -3305,8 +3313,10 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "The Good Wife Season 7 Episode 10"
+                    "en": "The Good Wife"
                 },
+		"season": 7,
+		"episode": 10,
                 "timecode": "00:17:12.170",
                 "text": {
                     "en": "Dr. Portnow called to check up on Bella, was it? No. Do you remember his calls to you on June 13, July 11 and July 25? Not specifically, but Bella had a surgery during the summer."
@@ -3353,8 +3363,10 @@
             {
                 "type": "movie",
                 "title": {
-                    "en": "Criminal Minds Season 8 Episode 19"
+                    "en": "Criminal Minds"
                 },
+		"season": 8,
+		"episode": 19,
                 "timecode": "00:26:27.960",
                 "text": {
                     "en": "He had lost his job in Kansas city the year before. Did he find work? Eventually he started punching a time clock again by July 28, 1988. 10 days after the incident? That can't be a coincidence."
